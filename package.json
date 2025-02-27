@@ -1,0 +1,23 @@
+{
+  "name": "mylab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ymchakradhar/mylab.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ymchakradhar/mylab/issues"
+  },
+  "homepage": "https://github.com/ymchakradhar/mylab#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
